@@ -1,7 +1,5 @@
 {
   "data": {
-    "id": 1,
-    "name": "John Doe",
     "orders": [
       {
         "orderId": "123",
@@ -12,7 +10,7 @@
       {
         "orderId": "124",
         "product": "Pen",
-        "quantity": "99",
+        "quantity": "100",
         "price": 2.99
       }
     ]
